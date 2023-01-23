@@ -1,0 +1,25 @@
+.insta{
+    margin-left: 300px;
+    margin-bottom: -2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(247, 15, 92);
+}
+
+.container-1{
+        display: flex;
+        display: inline;
+        margin-bottom: 300px;
+        width: 750px;
+}
+.logo{
+    width: 40%;
+    margin-left: 150px;
+}
+.btn{
+    float: right;
+    margin-right: 250px;
+    margin-top: 150px;
+    background-color: rgb(247, 15, 92);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
